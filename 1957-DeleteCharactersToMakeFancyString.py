@@ -16,7 +16,3 @@ class Solution:
                 result.append(c)
         
         return "".join(result)  # Convert list back to string for the final output
-    
-    # Time complexity: O(n)
-    # Space complexity: O(n)
-
